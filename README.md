@@ -14,8 +14,6 @@
 ![](https://komarev.com/ghpvc/?username=vivekrobo&color=blue)
 <div>
  
-![](https://github-readme-stats.vercel.app/api?username=vivekrobo&theme=city_lights&show_icons=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrobo&layout=compact&langs_count=8&theme=city_lights)
  
 </div>
 <div>
